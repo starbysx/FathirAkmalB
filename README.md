@@ -6,7 +6,7 @@
 <br>
 
 <!-- Introduce -->
-<h1 align="center" style="color:blue">Welcome to  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42px">, starbyx workspace</h1>
+<h1 align="center" style="color:blue">Welcome to  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42px">, Starbyx workspace</h1>
 <h3 align="center">A passionate programming explorer from Indonesia</h3>
 
 <br>
